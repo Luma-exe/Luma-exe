@@ -15,8 +15,11 @@
 [![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://lumas-resources.tebex.io/)](https://lumas-resources.tebex.io/)
 [![Gitbook Badge](https://img.shields.io/badge/-luma.gitbook-000000?style=flat&labelColor=AAAAAA&logo=Gitbook&link=https://luma.gitbook.io/)](https://luma.gitbook.io/)
 [![Youtube Badge](https://img.shields.io/badge/-@Luma-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@LumaAU)](https://www.youtube.com/@LumaAU)
+[![Discord Badge](https://img.shields.io/badge/-Luma's%20Development-7289DA?style=flat&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
 
 <br>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Luma-exe/Luma-exe)
 ![pv](https://pageview.vercel.app/?github_user=Luma-exe)
+
+<p>Most of my repositories are private, so the stats above may be inaccurate.</p>
