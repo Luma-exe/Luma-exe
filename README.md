@@ -15,7 +15,7 @@
 [![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://lumas-resources.tebex.io/)](https://lumas-resources.tebex.io/)
 [![Gitbook Badge](https://img.shields.io/badge/-luma.gitbook-000000?style=flat&labelColor=AAAAAA&logo=Gitbook&link=https://luma.gitbook.io/)](https://luma.gitbook.io/)
 [![Youtube Badge](https://img.shields.io/badge/-@Luma-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@LumaAU)](https://www.youtube.com/@LumaAU)
-[![Discord Badge](https://img.shields.io/badge/-Luma's%20Development-7289DA?style=flat&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
+[![Discord Badge](https://img.shields.io/badge/-Luma's%20Development-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
 
 <br>
 
