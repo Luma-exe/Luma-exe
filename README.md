@@ -17,7 +17,19 @@
 [![Youtube Badge](https://img.shields.io/badge/-@Luma-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@LumaAU)](https://www.youtube.com/@LumaAU)
 [![Discord Badge](https://img.shields.io/badge/-Luma's%20Development-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
 
-<br>
+---
+
+## 🔨 Luma's Development
+
+Most of my development work is housed within **[Luma's Development](https://github.com/Luma-s-Development)**, my GitHub organization dedicated to **FiveM projects** and other creations. While a lot of my repositories are private, this is where I actively contribute and manage my work.
+
+💡 **What you'll find in Luma's Development:**
+- FiveM scripts & frameworks
+- Custom systems & optimizations
+- Community-driven development
+- Exclusive projects & collaborations
+
+---
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Luma-exe/Luma-exe)
 ![pv](https://pageview.vercel.app/?github_user=Luma-exe)
