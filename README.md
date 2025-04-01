@@ -21,7 +21,7 @@
 
 ## 🔨 **Glitch Studios**  
 
-All of our development work is housed within **[Glitch Studios](https://github.com/Gl1tch-Studios)**, our GitHub organization dedicated to **FiveM resources** and other cutting-edge projects.  
+All of our development work is housed within **[Glitch Studios](https://github.com/Gl1tchStudios)**, our GitHub organization dedicated to **FiveM resources** and other cutting-edge projects.  
 
 💡 **What you'll find at Glitch Studios:**
 - High-quality FiveM scripts & resources
