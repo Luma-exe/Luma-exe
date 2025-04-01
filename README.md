@@ -19,15 +19,15 @@
 
 ---
 
-## 🔨 Luma's Development
+## 🔨 **Glitch Studios**  
 
-Most of my development work is housed within **[Luma's Development](https://github.com/Luma-s-Development)**, my GitHub organization dedicated to **FiveM projects** and other creations. While a lot of my repositories are private, this is where I actively contribute and manage my work.
+All of our development work is housed within **[Glitch Studios](https://github.com/Gl1tch-Studios)**, our GitHub organization dedicated to **FiveM resources** and other cutting-edge projects.  
 
-💡 **What you'll find in Luma's Development:**
-- FiveM scripts & frameworks
-- Custom systems & optimizations
-- Community-driven development
-- Exclusive projects & collaborations
+💡 **What you'll find at Glitch Studios:**
+- High-quality FiveM scripts & resources
+- Custom systems, tools, and optimizations
+- Collaborative community-driven development
+- Exclusive releases & projects
 
 ---
 
