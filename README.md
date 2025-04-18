@@ -13,9 +13,8 @@
 <p>Welcome to my page! </br> I'm Luma, a passionate developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1920px-Flag_of_Australia.svg.png" width="13"/> <b>Sydney, Australia</b>
 
 [![Tebex Badge](https://img.shields.io/badge/-TebexStore-000000?style=flat&labelColor=DDDDDD&logo=HomeAssistantCommunityStore&link=https://lumas-resources.tebex.io/)](https://lumas-resources.tebex.io/)
-[![Gitbook Badge](https://img.shields.io/badge/-luma.gitbook-000000?style=flat&labelColor=AAAAAA&logo=Gitbook&link=https://luma.gitbook.io/)](https://luma.gitbook.io/)
 [![Youtube Badge](https://img.shields.io/badge/-@Luma-000000?style=flat&labelColor=FF0000&logo=Youtube&link=https://www.youtube.com/@LumaAU)](https://www.youtube.com/@LumaAU)
-[![Discord Badge](https://img.shields.io/badge/-Luma's%20Development-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
+[![Discord Badge](https://img.shields.io/badge/-Luma's%20Den-000000?style=flat&labelColor=7289DA&logo=discord&link=https://discord.gg/xUN4c7SBWf)](https://discord.gg/xUN4c7SBWf)
 
 ---
 
