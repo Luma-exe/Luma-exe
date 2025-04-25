@@ -34,3 +34,5 @@ All of our development work is housed within **[Glitch Studios](https://github.c
 ![pv](https://pageview.vercel.app/?github_user=Luma-exe)
 
 <p>Most of my repositories are private, so the stats above may be inaccurate.</p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H11E1EXY)
